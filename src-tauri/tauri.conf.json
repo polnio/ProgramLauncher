@@ -118,11 +118,9 @@
     },
     "windows": [
       {
-        "fullscreen": false,
-        "height": 600,
-        "resizable": true,
-        "title": "ProgramLauncher",
-        "width": 800
+        "fullscreen": true,
+        "resizable": false,
+        "title": "ProgramLauncher"
       }
     ]
   }
